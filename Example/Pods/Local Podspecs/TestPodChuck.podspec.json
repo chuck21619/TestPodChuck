@@ -1,0 +1,22 @@
+{
+  "name": "TestPodChuck",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodChuck.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chuck21619/TestPodChuck",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chuck21619": "charles.ward.johnston@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chuck21619/TestPodChuck.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "TestPodChuck/Classes/**/*"
+}

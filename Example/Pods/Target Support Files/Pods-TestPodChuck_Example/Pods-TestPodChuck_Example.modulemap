@@ -1,0 +1,6 @@
+framework module Pods_TestPodChuck_Example {
+  umbrella header "Pods-TestPodChuck_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
