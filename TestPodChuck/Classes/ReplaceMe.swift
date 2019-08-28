@@ -2,7 +2,11 @@
 
 public class TestPodClass {
     
-    func printSomething() {
+    public init() {
+        
+    }
+    
+    public func printSomething() {
         
         print("printing from pod class instance")
     }
